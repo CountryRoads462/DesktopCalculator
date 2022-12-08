@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Desktop Calculator/task/build/
+/Desktop Calculator/task/out/
+/Desktop Calculator/task/out/production/classes/
+/Topics/Stack/Theory/build/
+/Topics/Stack/Theory/out/
+/Topics/Stack/Theory/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
